@@ -37,17 +37,6 @@ This thesis project is composed of four main repositories:
 - Preprocessing pipeline for research datasets
 - Geographic coordinate handling and mapping
 
-## 🔄 Workflow Integration
-
-```mermaid
-graph TD
-    A[Satellite Data<br/>download-satlas-map] --> B[PV Detection & Segmentation<br/>thesis-segmentation-ui]
-    B --> C[Super-Resolution Enhancement]
-    C --> D[Quality Assessment<br/>sr-metrics]
-    D --> E[Thesis Analysis<br/>Main Repository]
-    E --> F[Research Outcomes]
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
