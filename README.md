@@ -2,6 +2,17 @@
 
 This repository contains the main thesis work on **Photovoltaic Super-Resolution Detection**. The project is organized into multiple interconnected repositories that handle different aspects of the research pipeline.
 
+## 📄 Thesis Document
+
+**📥 [Download Full Thesis (PDF)](./thesis.pdf)**
+
+*"Enhancing Photovoltaic Detection Using Generative AI for Super-Resolution Satellite Imagery"*  
+**Author**: Ziyad Mourabiti  
+**Institution**: Technical University of Munich  
+**Year**: 2025
+
+---
+
 ## 🏗️ Repository Structure
 
 This thesis project is composed of four main repositories:
