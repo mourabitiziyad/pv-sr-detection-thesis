@@ -16,7 +16,7 @@ This thesis project is composed of four main repositories:
 📊 **Image Quality Assessment and Super-Resolution Metrics**
 - Reference: https://github.com/mourabitiziyad/sr-metrics
 - Comprehensive toolkit for evaluating super-resolution algorithms
-- Implements both traditional (PSNR, SSIM) and literature-based metrics (BRISQUE, PIQUE)
+- Implements both traditional (PSNR, SSIM) and literature-based metrics (BRISQUE, PIQE)
 - Batch processing capabilities for algorithm comparison
 - Multi-format support (TIFF, PNG) with geo-referencing
 
@@ -73,7 +73,7 @@ git submodule update --init --recursive
 
 ### Quality Assessment
 - **Traditional Metrics**: PSNR, SSIM, RMSE
-- **Advanced Metrics**: BRISQUE, PIQUE, Laplacian variance
+- **Advanced Metrics**: BRISQUE, PIQE, Laplacian variance
 - **Segmentation Metrics**: IoU, Dice coefficient, pixel accuracy
 - **Analysis**: Statistical comparison and algorithm ranking
 
