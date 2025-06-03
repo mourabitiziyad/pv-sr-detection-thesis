@@ -1,0 +1,9 @@
+[submodule "sr-metrics"]
+	path = sr-metrics
+	url = https://github.com/mourabitiziyad/sr-metrics.git
+[submodule "thesis-segmentation-ui"]
+	path = thesis-segmentation-ui
+	url = https://github.com/mourabitiziyad/thesis-segmentation-ui.git
+[submodule "download-satlas-map"]
+	path = download-satlas-map
+	url = https://github.com/mourabitiziyad/download-satlas-map.git
