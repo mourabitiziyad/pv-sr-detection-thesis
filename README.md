@@ -65,6 +65,19 @@ git clone --recursive https://github.com/mourabitiziyad/pv-sr-detection-thesis.g
 git submodule update --init --recursive
 ```
 
+## 🚀 Live Demo & Notebook
+
+For an interactive, end-to-end demonstration of the data processing and evaluation pipeline, you can run the complete workflow in Google Colab:
+
+**▶️ [Open in Google Colab](https://colab.research.google.com/drive/1oMxrHK2Vsk8p-Ai1yBqhhci1drYTQmmo?usp=sharing)**
+
+The notebook covers:
+- Setting up the environment
+- Validating and standardizing input data
+- Running ESRGAN, S2DR3, and Satlas models
+- Calculating reference and no-reference quality metrics
+- Visualizing the results
+
 ## 📋 Research Components
 
 ### Data Acquisition
